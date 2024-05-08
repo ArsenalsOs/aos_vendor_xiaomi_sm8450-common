@@ -1,0 +1,1 @@
+# aos_vendor_xiaomi_sm8450-common
